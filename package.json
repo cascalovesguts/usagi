@@ -1,0 +1,14 @@
+{
+  "name": "shotaro",
+  "version": "0.0.1",
+  "description": "a greeter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "casca",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
