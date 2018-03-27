@@ -2,9 +2,9 @@
   "name": "shotaro",
   "version": "0.0.1",
   "description": "a greeter bot",
-  "main": "bot.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node app.js"
   },
   "author": "casca",
   "license": "MIT",
