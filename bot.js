@@ -33,7 +33,7 @@ client.on('message', message => {
 var prefix = "~"
 client.on('message', message => {
 	if (message.author === client.user) return;
-	if (message.content.startsWith(prefix + 'tag2')) {
+	if (message.content.startsWith(prefix + 'tag4')) {
 		message.channel.sendMessage('Warning! Proceed with caution, because the following message contains mentions of self harm!');
 	}
 });
